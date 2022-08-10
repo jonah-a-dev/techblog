@@ -4,7 +4,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:tec/component/my_colors.dart';
 import 'package:tec/view/articel_list_sceen.dart';
 import 'package:tec/view/single.dart';
-   
+    
  
 import 'package:tec/view/splash_screen.dart';
 
